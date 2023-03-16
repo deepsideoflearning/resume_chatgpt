@@ -1,0 +1,15 @@
+SUMMARY:
+
+
+I possess a wide range of leadership and expertise in system implementation, custom modification, user training, data science/machine learning, organization, and business process improvement across the construction, retail, and financial industries. I am looking for an opportunity to apply my project experience and training in data science/machine learning to a cutting-edge company where I can have ample opportunity for growth.
+EXPERIENCE 0 
+
+I am an experienced data analyst with a proven track record of success in responding to ad hoc requests for data from Marketing, Finance and Operations, converting to Snowflake, and streamlining main sources of data for reporting on revenue and leads/prospects to measure conversion rates. I have also created forecasts of driver jobs for fulfillment of 450k annual customers for 20 markets and 280 storage centers using statistical methods, as well as managed orders forecasts dependent on economic conditions such as change of address.
+EXPERIENCE 1 
+
+
+Analyze, organize and present customer data for Intuit Payroll and TSheets product lines to create insightful dashboards, chessboards, and burndown charts that accurately represent the status of infrastructure and product conversions. Utilize Tidal to automate SQL data conversion scripts over Hive and Vertica databases.
+EXPERIENCE 2 
+
+
+Involvement in Activities and Societies: Minor in Mechanical Engineering from Georgia State University; Member of the Viola Section in the University Orchestra
