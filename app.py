@@ -19,7 +19,7 @@ def experience_result(experience_text):
 if __name__=='__main__':
     image = Image.open('resume_image.jpeg')
     st.image(image, caption='Photo by Unseen Studio on Unsplash')
-    st.header('Improving your CV in seconds using ChatGPT!!')
+    st.header('Improving your CV in seconds using ChatGPT!')
     st.write('This app is meant to improve the quality of your CV by using Artificial Intelligence\n Start by downloading the template, fill the information, upload your CV and enjoy the magic! :smile:')
     st.write("\n Let's see what you got! Download the following template and fill it out with your information! :sunglasses:")
     download_template()
